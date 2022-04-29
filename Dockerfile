@@ -1,4 +1,4 @@
-FROM 113355358853.dkr.ecr.eu-west-1.amazonaws.com/example/1/2/3/jenkins-worker:latest
+FROM 111111111111.dkr.ecr.eu-west-1.amazonaws.com/example/1/2/3/jenkins-worker:latest
 
 
 USER root
